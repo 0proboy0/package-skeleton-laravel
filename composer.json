@@ -2,9 +2,9 @@
     "name": "proboy/testpackage",
     "description": ":package_description",
     "keywords": [
-        ":vendor_name",
+        "proboy",
         "laravel",
-        ":package_slug"
+        "test"
     ],
     "homepage": "https://github.com/:vendor_slug/:package_slug",
     "license": "MIT",
